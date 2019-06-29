@@ -1,0 +1,30 @@
+{
+  "name": "express",
+  "preferGlobal": true,
+  "version": "4.17.1",
+  "author": "Cody Bonney <me@codybonney.com>",
+  "description": "a simple express app",
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "express": "~3.4.7",
+    "json-lint": "~0.1.0"
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AZebda/Express.js.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/AZebda/Express.js/issues"
+  },
+  "homepage": "https://github.com/AZebda/Express.js#readme"
+}

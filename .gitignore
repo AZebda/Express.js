@@ -1,0 +1,9 @@
+.idea
+node_modules
+
+newrelic_agent.log
+npm-debug.log
+
+.envrc
+
+.DS_Store
